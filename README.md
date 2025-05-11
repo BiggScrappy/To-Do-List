@@ -32,22 +32,19 @@ python todo.py
 ## 📄 Usage
 Follow the prompts in the terminal to interact with the app:
 
-markdown
-Copy
-Edit
 Options:
 1. View Tasks
 2. Add Task
 3. Remove Task
 4. Exit
-Example:
-pgsql
-Copy
-Edit
+
+## 🧩 Example:
+
 Select an option (1/2/3/4): 2
 Enter the task you want to add: Finish Python project
 Task 'Finish Python project' added successfully!
-🧠 Concepts Practiced
+
+## 🧠 Concepts Practiced
 Object-Oriented Programming (OOP)
 
 List operations in Python
