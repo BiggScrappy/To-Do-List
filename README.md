@@ -1,4 +1,4 @@
-# 📝 Python To-Do List (Command Line)
+# 📝  To-Do List 
 
 A simple, efficient, and beginner-friendly command-line To-Do List application built in Python. This project uses object-oriented programming to manage tasks and provides a text-based menu for easy user interaction.
 
