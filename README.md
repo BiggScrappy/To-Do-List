@@ -27,7 +27,9 @@ bash
 Copy
 Edit
 python todo.py
-📄 Usage
+
+
+## 📄 Usage
 Follow the prompts in the terminal to interact with the app:
 
 markdown
