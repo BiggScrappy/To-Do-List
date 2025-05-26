@@ -27,3 +27,7 @@ cd todo-list-webapp
 * Input validation and user feedback
 * Responsive web design with CSS flexbox
 * Basic user interface (UI) and user experience (UX) principles
+
+## 📝 Demo / Visualization
+
+<img width="1792" alt="Screenshot 2025-05-25 at 11 30 28 PM" src="https://github.com/user-attachments/assets/62b48251-c012-4734-a6d8-d9e950235f99" />
